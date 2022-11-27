@@ -1,4 +1,5 @@
 # Test Driven Development in Flutter
+> Uses Flutter Version 2.10.5
 
 ## Wanna Start TDD ? 
 ## This repo is the perfect example
